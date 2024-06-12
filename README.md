@@ -2,10 +2,6 @@
 
 ## To Run
 
-###
-
-Runs the app in the browser as a Github Page.
-
 ### `npm start`
 
 Runs the app in the development mode.\
